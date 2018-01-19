@@ -1,5 +1,7 @@
 # ButterKnifeZelezny
 
+> Latest release here: [android-butterknife-zelezny.jar](https://github.com/brucezz/android-butterknife-zelezny/blob/dev/release/android-butterknife-zelezny.jar)
+
 Simple plug-in for Android Studio/IDEA that allows one-click creation of [Butterknife](https://github.com/JakeWharton/butterknife) view injections.
 
 ## How to install
